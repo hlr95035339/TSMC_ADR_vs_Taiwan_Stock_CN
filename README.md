@@ -25,9 +25,9 @@
 ## 視覺化成果
 ![ADR vs 台股走勢](Dashboard1.png)
 
-👉 [查看進階分析儀表板][(https://public.tableau.com/views/TSMCADRvsTaiwanStockMarketAnalysis20202026/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
+👉 [查看進階分析儀表板] [(https://public.tableau.com/views/TSMCADRvsTaiwanStockMarketAnalysis20202026/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 
-<small>👉 English version available at[(https://github.com/hlr95035339/TSMC_ADR_vs_Taiwan_Stock.git)]</small>
+<small>👉 English version [(https://github.com/hlr95035339/TSMC_ADR_vs_Taiwan_Stock.git)]</small>
 
 ---
 

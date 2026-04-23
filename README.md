@@ -23,7 +23,7 @@
 
 ---
 ## 視覺化成果
-![ADR vs 台股走勢](Dashboard＿1.png)
+![ADR vs 台股走勢](Dashboard1.png)
 
 👉 [查看進階分析儀表板][(https://public.tableau.com/views/TSMCADRvsTaiwanStockMarketAnalysis20202026/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 

@@ -22,17 +22,19 @@
 - 評估風險與報酬（Sharpe Ratio）
 
 ---
+## 視覺化成果
+![ADR vs 台股走勢](Dashboard_1.png)
+
+👉 [查看進階分析儀表板（Drivers Analysis）][(https://public.tableau.com/views/TSMCADRvsTaiwanStockMarketAnalysis20202026/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
+
+<small>👉 English version available at [Airline Passenger Satisfaction Analysis][(https://github.com/hlr95035339/TSMC_ADR_vs_Taiwan_Stock.gi)]</small>
+
+---
 
 ## 數據來源
 - 台股：台積電（2330）
 - 美股：TSMC ADR（TSM）
 - 匯率：USD/TWD
-
----
-
-### 方法
-## 價差定義（Spread）
-> 註：1 ADR = 5 股台積電股票
 
 ---
 
